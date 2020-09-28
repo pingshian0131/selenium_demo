@@ -122,7 +122,7 @@ def main (driver):
             ###輸入新帳號資訊###
             print ("請輸入新帳號資訊：")
             data_keys = ['dept_id', 'userid' , 'user_name' , 'usergroup','department' , 'job_title' , 'supervisor' , 'email' , 'agent' , 'supervisor2' , 'join_date' , 'supervisor3' , 'SSOAccount' , 'staff_no' , 'password']
-            data_values = ['芥菜種會' , 'A000000' , '姓名' , '一般使用者' , '' , '專員' , '' , 'aaa@mustarg.org.tw' , '' , '' , '2020/01/01' , '' , 'aaa@mustard.org.tw' , 'A000000' , '0000']
+            data_values = ['芥菜種會' , 'account' , '姓名' , '一般使用者' , '' , '專員' , '' , 'aaa@mail.com.tw' , '' , '' , '2020/01/01' , '' , 'aaa@mail.com.tw' , 'account' , 'pwd']
             data_keys_trans = ['服務據點' , '帳號' , '姓名' , '帳號類別' , '部門' , '職稱' , '直屬主管' , 'Email' , '職務代理人' , '主管' , '到職日期' , '處級主管']
 
             ########服務據點################# 
